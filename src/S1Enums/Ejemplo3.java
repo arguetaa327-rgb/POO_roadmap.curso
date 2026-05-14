@@ -1,0 +1,10 @@
+package S1Enums;
+
+public class Ejemplo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
