@@ -6,7 +6,7 @@ public class UsandoPaquetes {
 
         System.out.println("\n=== EJEMPLO DE PAQUETES ===");
 
-        Persona persona1 = new Persona("Yuliana", 20);
+        Persona persona1 = new Persona("Alondra", 18);
 
         persona1.mostrarInformacion();
     }

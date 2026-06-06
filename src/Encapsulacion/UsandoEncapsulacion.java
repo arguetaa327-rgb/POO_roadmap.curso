@@ -6,7 +6,7 @@ public class UsandoEncapsulacion {
 
         System.out.println("\n=== ENCAPSULACIÓN ===");
 
-        Estudiante estudiante = new Estudiante("Yuliana", 90);
+        Estudiante estudiante = new Estudiante("Alondra", 90);
 
         estudiante.mostrarDatos();
 
